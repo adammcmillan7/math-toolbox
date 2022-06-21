@@ -7,7 +7,7 @@ As this repo is a great mix of different topics and interests, any documentation
 
 Some of my favorites:
 
-[Using Fourier Series to Numerically Model and their Convergence](Modeling/FourierSeriesConvergence.nb) | [PDF](Modeling/FourierSeriesConvergence.pdf)
+[Using Fourier Series to Numerically Model and its Convergence](Modeling/FourierSeriesConvergence.nb) | [PDF](Modeling/FourierSeriesConvergence.pdf)
 
 [Realistic ODE Model of a Building's Temperature](Modeling/TemperatureOfABuildingODE.nb) | [PDF](Modeling/TemperatureOfABuildingODE.pdf)
 
