@@ -11,4 +11,4 @@ Some of my favorites:
 
 [Realistic ODE Model of a Building's Temperature](Modeling/TemperatureOfABuildingODE.nb) | [PDF](Modeling/TemperatureOfABuildingODE.pdf)
 
-[Basic Analysis of Newton's and Bisection Root-Finding Methods](Root Finding Methods/NewtonsBisectionMethods.nb) | [PDF](Root Finding Methods/NewtonsBisectionMethods.pdf)
+[Basic Analysis of Newton's and Bisection Root-Finding Methods](RootFindingMethods/NewtonsBisectionMethods.nb) | [PDF](RootFindingMethods/NewtonsBisectionMethods.pdf)
