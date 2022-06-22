@@ -73,7 +73,7 @@ def evaluate():
 tradplot = list()
 nestplot = list()
 
-for i in range(0,10):
+for i in range(0,1000):
     eval = evaluate()
     tradplot.append(eval[0])
     nestplot.append(eval[1])
