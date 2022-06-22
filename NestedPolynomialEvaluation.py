@@ -2,7 +2,7 @@ from random import randint
 from datetime import datetime
 from matplotlib import pyplot
 
-""" Polynomials in this standard form can be rewritten in nested form
+""" Polynomials in standard form can be rewritten in nested form
         eg 1 + 2x + 3x^2 = 1 + x(2 + x(3))
     
     Rewriting in this form simplifies evaluating at any point x. 
