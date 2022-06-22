@@ -14,3 +14,5 @@ Some of my favorites:
 [Realistic ODE Model of a Building's Temperature](Modeling/TemperatureOfABuildingODE.nb) | [PDF](Modeling/TemperatureOfABuildingODE.pdf)
 
 [Basic Analysis of Newton's and Bisection Root-Finding Methods](RootFindingMethods/NewtonsBisectionMethods.nb) | [PDF](RootFindingMethods/NewtonsBisectionMethods.pdf)
+
+[Using Nested Form to Improve Polynomial Evaluation to Near Constant Time](NestedPolynomialEvaluation.py) | [ScatterPlot](img) 
