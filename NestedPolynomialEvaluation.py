@@ -61,7 +61,7 @@ def evaluate():
 #we evaluate 100,000 different polynomials
 #reorganize for pyplot
 
-"""To compare the time efficiency of each algorithm, evaluate 100,000 different randomly generated polynomials
+"""To compare the time efficiency of each algorithm, evaluate 1,000 different randomly generated polynomials
     of degree <= 9999 with integer coefficients between (-1000,1000). Evaluation point x is a random integer
     between (-10000, 10000).
     
