@@ -13,7 +13,8 @@ from matplotlib import pyplot
         eg [1,2,3]  = 1 + 2x + 3x^2 
         
     This code compares the efficiency of the traditional polynomial algorithm and the nested algorithm.
-    For polynomials of small degree, evaluation time """
+    For polynomials of small degree, evaluation time is near instant for any efficient algorithm.
+    However we can evaluate large degree polynomials exponentially faster using nested form instead of standard form."""
 
 def trad(x,c):
     """ x is our x value.
