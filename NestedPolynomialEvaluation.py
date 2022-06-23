@@ -18,7 +18,8 @@ from matplotlib import pyplot
 
 def trad(x,c):
     """ x is our x value.
-        c is a list of coefficients"""
+        c is a list of coefficients
+        returns tuple of (value, total time)"""
     start = datetime.now()
     pwr = 0;
     val = 0
@@ -30,7 +31,8 @@ def trad(x,c):
 
 def nest(x,c):
     """ x is our x value.
-        c is a list of coefficients"""
+        c is a list of coefficients
+        returns tuple of (value, total time)"""
     start = datetime.now()
     val = 0
     for i in range(len(c)-1,-1,-1):
@@ -57,10 +59,6 @@ def evaluate():
     nesttime = nest(x,poly)[1]
     return ( (len(poly), tradtime.total_seconds()) , (len(poly), nesttime.total_seconds()))
 
-
-#plots of data
-#we evaluate 100,000 different polynomials
-#reorganize for pyplot
 
 """To compare the time efficiency of each algorithm, evaluate 1,000 different randomly generated polynomials
     of degree <= 9999 with integer coefficients between (-1000,1000). Evaluation point x is a random integer
